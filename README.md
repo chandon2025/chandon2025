@@ -1,28 +1,7 @@
-<h1 align="center" class="animated-text">👋 Hi, I'm Chandon Kumar Sarker</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Chandon+Kumar+Sarker;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
-<style>
-.animated-text {
-  font-family: 'Segoe UI', sans-serif;
-  font-size: 2.5em;
-  font-weight: bold;
-  background: linear-gradient(90deg, #ff6a00, #ee0979, #00c6ff, #0072ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-size: 300% 300%;
-  animation: gradientMove 6s ease infinite, floatText 3s ease-in-out infinite;
-}
-
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes floatText {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-</style>
 
 
 ---
