@@ -13,7 +13,6 @@
         </stop>
       </linearGradient>
 
-      <!-- Glow effect -->
       <filter id="glow">
         <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
         <feMerge>
@@ -36,54 +35,71 @@
 </h1>
 
 <p align="center">
-  🚀 Passionate Developer | 💻 Coding Enthusiast | 🌱 Always Learning
+  🚀 Passionate Developer | 💻 Coding Enthusiast | 🌱 Lifelong Learner
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandon2025&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
 ## 🚀 Skills & Technologies
 
-- **Programming Languages:** C, C++, Java  
-- **Core CS Concepts:** Data Structures, Algorithms  
-- **Web Development:** HTML, CSS, JavaScript, TailwindCSS  
-- **Databases:** SQLite (learning and practicing)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,tailwind,sqlite,git,github" />
+</p>
 
 ---
 
-## 📚 What I'm Working On
+## 📚 Currently Working On
 
-- Building projects with **C/C++ and Java**  
-- Practicing **DSA problems** to sharpen problem-solving skills  
-- Creating responsive websites using **HTML, CSS, JS, and TailwindCSS**  
-- Learning **SQLite** for database management  
+- 🔹 Building projects with **C / C++ / Java**  
+- 🔹 Practicing **Data Structures & Algorithms (DSA)**  
+- 🔹 Developing responsive UI using **HTML, CSS, JS, TailwindCSS**  
+- 🔹 Learning **SQLite** for database handling  
 
 ---
 
 ## 🌱 Goals
 
-- Master advanced algorithms and competitive programming  
-- Contribute to open-source projects  
-- Build full-stack applications with database integration  
+- 🚀 Master **Advanced Algorithms & Competitive Programming**  
+- 🌍 Contribute to **Open Source Projects**  
+- 🧩 Build **Full-Stack Applications** with database integration  
 
 ---
 
-## 📊 GitHub Stats (Dynamic)
+## 📊 GitHub Stats
 
-![Chandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandon2025&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandon2025&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandon2025&layout=compact&theme=radical" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandon2025&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandon2025&theme=radical" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandon2025&theme=radical)  
+---
+
+## 🏆 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chandon2025&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [chandon2025](https://github.com/chandon2025)  
-- Name: **Chandon Kumar Sarker**
+<p align="center">
+  <a href="https://github.com/chandon2025">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐️ Feel free to explore my repositories and follow along my journey!
+<p align="center">
+  ⭐️ <b>Thanks for visiting my profile! Feel free to explore my repositories 😊</b>
+</p>
