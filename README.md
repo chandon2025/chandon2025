@@ -1,8 +1,29 @@
-# 👋 Hi, I'm Chandon Kumar Sarker
+<h1 align="center" class="animated-text">👋 Hi, I'm Chandon Kumar Sarker</h1>
 
-Welcome to my GitHub profile!  
-I'm a university student passionate about **programming, problem solving, and web development**.  
-Currently exploring new technologies while strengthening my foundation in computer science.
+<style>
+.animated-text {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+  background: linear-gradient(90deg, #ff6a00, #ee0979, #00c6ff, #0072ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 300% 300%;
+  animation: gradientMove 6s ease infinite, floatText 3s ease-in-out infinite;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes floatText {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+</style>
+
 
 ---
 
