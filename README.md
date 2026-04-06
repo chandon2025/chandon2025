@@ -1,5 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Chandon+Kumar+Sarker;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <svg viewBox="0 0 800 200">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="48" font-family="Segoe UI, sans-serif"
+          fill="url(#gradient)">
+      👋 Hi, I'm Chandon Kumar Sarker
+    </text>
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff6a00">
+          <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#ee0979">
+          <animate attributeName="offset" values="0.5;1;0.5" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#0072ff">
+          <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+  </svg>
 </h1>
 
 
