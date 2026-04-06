@@ -1,26 +1,43 @@
 <h1 align="center">
-  <svg viewBox="0 0 800 200">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="48" font-family="Segoe UI, sans-serif"
-          fill="url(#gradient)">
-      👋 Hi, I'm Chandon Kumar Sarker
-    </text>
+  <svg width="100%" height="200" viewBox="0 0 800 200">
     <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="gradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="0">
         <stop offset="0%" stop-color="#ff6a00">
-          <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
+          <animate attributeName="offset" values="0;1;0" dur="8s" repeatCount="indefinite" />
         </stop>
         <stop offset="50%" stop-color="#ee0979">
-          <animate attributeName="offset" values="0.5;1;0.5" dur="6s" repeatCount="indefinite" />
+          <animate attributeName="offset" values="0.5;1;0.5" dur="8s" repeatCount="indefinite" />
         </stop>
         <stop offset="100%" stop-color="#0072ff">
-          <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite" />
+          <animate attributeName="offset" values="1;0;1" dur="8s" repeatCount="indefinite" />
         </stop>
       </linearGradient>
+
+      <!-- Glow effect -->
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
     </defs>
+
+    <text x="50%" y="50%" 
+          dominant-baseline="middle" 
+          text-anchor="middle"
+          font-size="52"
+          font-family="Segoe UI, Poppins, sans-serif"
+          fill="url(#gradient)"
+          filter="url(#glow)">
+      👋 Hi, I'm Chandon Kumar Sarker
+    </text>
   </svg>
 </h1>
 
+<p align="center">
+  🚀 Passionate Developer | 💻 Coding Enthusiast | 🌱 Always Learning
+</p>
 
 
 
